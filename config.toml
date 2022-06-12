@@ -1,0 +1,16 @@
+[app]
+
+[kafka]
+connectionUrl="localhost:8080"
+
+[kafka.consumer]
+topic="teste"
+groupId=""
+clientId=""
+
+[kafka.producer]
+topic=""
+clientId=""
+jsonHeaderFilePath=""
+jsonFilePath=""
+
